@@ -14,7 +14,7 @@ This is a boilerplate template for setting up a single-page application (SPA) us
 ## Project Structure
 
 ```
-my-spa/
+wp5-boilerplate/
 ├── dist/                   # Output directory for bundled files
 ├── src/                    # Source directory
 │   ├── index.js            # Entry point for the application
@@ -39,7 +39,7 @@ Ensure you have Node.js and npm installed on your machine. You can download and 
 1. Clone the repository or download the zip file and extract it.
 2. Navigate to the project directory:
    ```sh
-   cd my-spa
+   cd wp5-boilerplate
    ```
 3. Install the dependencies:
    ```sh
